@@ -1,4 +1,5 @@
-This is a web app created by Yasser Momen as part of the requirements for the Generations School of Technology (GSG) coding bootcamp. The web app showcases Yasser's skills in HTML, CSS, and JavaScript.
+This is a web app created by Yasser & Momen as part of the requirements for the (GSG) coding academy bootcamp. 
+The web app showcases Yasser and Momen's skills in HTML, CSS, and JavaScript.
 
 <h1>Features</h1>
 The web app has the following features:
@@ -12,6 +13,7 @@ The web app was built using the following technologies:
 HTML
 CSS
 JavaScript
+Api's
 
 <h1>Getting Started</h1>
 To view the web app, simply go to https://gsg-g13.github.io/Yasser-Momen/ in your web browser. You can navigate to different pages using the links in the navigation bar.
